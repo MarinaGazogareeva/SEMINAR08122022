@@ -1,0 +1,15 @@
+C:\Geekbrains\seminar08122022\task42\obj\Debug\net7.0\task42.csproj.AssemblyReference.cache
+C:\Geekbrains\seminar08122022\task42\obj\Debug\net7.0\task42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\seminar08122022\task42\obj\Debug\net7.0\task42.AssemblyInfoInputs.cache
+C:\Geekbrains\seminar08122022\task42\obj\Debug\net7.0\task42.AssemblyInfo.cs
+C:\Geekbrains\seminar08122022\task42\obj\Debug\net7.0\task42.csproj.CoreCompileInputs.cache
+C:\Geekbrains\seminar08122022\task42\bin\Debug\net7.0\task42.exe
+C:\Geekbrains\seminar08122022\task42\bin\Debug\net7.0\task42.deps.json
+C:\Geekbrains\seminar08122022\task42\bin\Debug\net7.0\task42.runtimeconfig.json
+C:\Geekbrains\seminar08122022\task42\bin\Debug\net7.0\task42.dll
+C:\Geekbrains\seminar08122022\task42\bin\Debug\net7.0\task42.pdb
+C:\Geekbrains\seminar08122022\task42\obj\Debug\net7.0\task42.dll
+C:\Geekbrains\seminar08122022\task42\obj\Debug\net7.0\refint\task42.dll
+C:\Geekbrains\seminar08122022\task42\obj\Debug\net7.0\task42.pdb
+C:\Geekbrains\seminar08122022\task42\obj\Debug\net7.0\task42.genruntimeconfig.cache
+C:\Geekbrains\seminar08122022\task42\obj\Debug\net7.0\ref\task42.dll
